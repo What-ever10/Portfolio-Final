@@ -1,0 +1,6 @@
+**/.env
+node_modules
+# .gitignore
+.env
+.env.*
+.env*
